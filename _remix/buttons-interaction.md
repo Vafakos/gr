@@ -15,3 +15,5 @@ tags:
 data-pen-title="Offset Color Button" class="codepen">See the Pen <a href="https://codepen.io/Vafakos/pen/YRvMEy/">
 Offset Color Button</a> by Vafakos (<a href="https://codepen.io/Vafakos">@Vafakos</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Τροποποιήστε τα ονόματα των κουμπιών με τις επιλογής σας και την κίνηση τους αναλόγως για να ταιριάζει στην περιγραφή.  
